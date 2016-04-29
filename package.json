@@ -1,0 +1,25 @@
+{
+  "name": "proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "http-proxy": "^1.13.2",
+    "ngrok": "^2.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schaitanya/proxy_ngrok.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schaitanya/proxy_ngrok/issues"
+  },
+  "homepage": "https://github.com/schaitanya/proxy_ngrok#readme"
+}
